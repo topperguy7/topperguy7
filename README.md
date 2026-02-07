@@ -71,10 +71,6 @@
   <img src="https://streak-stats.demolab.com?user=topperguy7&theme=github-dark" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=topperguy7&theme=github-dark" />
-</p>
-
 ---
 
 ## 🌱 Currently Exploring
