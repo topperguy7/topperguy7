@@ -9,7 +9,7 @@
 
 ### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs" />
 </p>
 
 ---
