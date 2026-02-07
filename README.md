@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=topperguy7" />
+
 # 👋 Hi, I'm topperguy 
 
 🚀 Software Developer | Frontend & Full-Stack | Data & ML Enthusiast  
