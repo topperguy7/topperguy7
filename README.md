@@ -62,12 +62,13 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=topperguy7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=topperguy7&show_icons=true&theme=github_dark&cache_seconds=21600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=topperguy7&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=topperguy7&theme=github-dark" />
 </p>
 
 ---
