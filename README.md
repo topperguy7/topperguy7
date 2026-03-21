@@ -1,90 +1,65 @@
-# 👋 Hi, I'm topperguy 
-
-🚀 Software Developer | Frontend & Full-Stack | Data & ML Enthusiast  
-🎓 Engineering Student | Building, learning, and improving every day  
-
----
-
-## 🧠 Tech Stack & Skills
-
-### 🌐 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs" />
-</p>
-
----
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-</p>
-
----
-
-### 📚 Libraries & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-3B4A6B?style=for-the-badge"/>
-</p>
-
----
-
-### ⚙️ Backend & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
----
-
-### 🗄️ Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
----
-
-### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">❄️ Hacker • ✨ YOUR NAME ✨ • Developer ❄️</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=topperguy7&show_icons=true&theme=github_dark&cache_seconds=21600" />
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="140"/>
 </p>
+
+<h3 align="center">umm... yeah, I kinda like coding 😎</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=topperguy7&theme=github-dark" />
+  <i>"I don't let my schooling interfere with my education."</i>
 </p>
 
 ---
 
-## 🌱 Currently Exploring
-- Full-stack scalable applications  
-- Machine Learning & Data Analytics  
-- Cloud & system design basics  
+## 🌐 Connect With Me
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail"/></a>
+</p>
 
 ---
 
-## 🤝 Let’s Connect
-- 💼 LinkedIn: **
-- 🌐 Portfolio: **
-- 📧 Email: **
+# ⚡ Tech Stack
+
+### 🧠 Languages
+![Go](https://img.shields.io/badge/-Go-000?&logo=go)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+
+### 💻 Systems & Tools
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![Arch](https://img.shields.io/badge/-Arch-000?&logo=arch-linux)
+![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=neovim)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
+
+### ⚙️ Hardware / Embedded
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
+![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-000?&logo=raspberrypi)
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*
+# 🧠 About Me
+
+🏃 Hustler Life Forever  
+
+- 🔥 System Design + Backend Developer  
+- 🧠 Ethical Hacker / Security Enthusiast  
+- ⚙️ Embedded Systems & IoT Builder  
+- 🔍 Love Reverse Engineering & Low-Level Stuff  
+- 🧩 Exploring legacy systems & building emulators  
+- ❤️ Currently obsessed with **Rust & Go**
+
+---
+
+# ⚡ My Setup
+
+```bash
+OS      : Arch Linux / MacOS
+Editor  : Neovim
+Shell   : Bash / Zsh
+Stack   : Go + Rust + Python
