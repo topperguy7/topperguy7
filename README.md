@@ -1,7 +1,7 @@
 <h1 align="center">❄️ AI & Data Engineer • ✨ Parth ✨ • Full Stack Developer ❄️</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
 <h3 align="center">umm... yeah, I kinda like coding 😎</h3>
@@ -87,10 +87,6 @@
 <hr>
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=topperguy7&show_icons=true&theme=github_dark&cache_seconds=21600" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=topperguy7&theme=github-dark" />
