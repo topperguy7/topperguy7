@@ -14,7 +14,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="topperguy.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="[topperguy.netlify.app](https://topperguy.netlify.app/)"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
   <a href="parthonrao24@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail"/></a>
 </p>
