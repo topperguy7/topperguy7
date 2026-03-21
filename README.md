@@ -78,19 +78,20 @@
 
 🏃 Hustler Life Forever  
 
-- 🔥 System Design + Backend Developer  
-- 🧠 Ethical Hacker / Security Enthusiast  
-- ⚙️ Embedded Systems & IoT Builder  
-- 🔍 Love Reverse Engineering & Low-Level Stuff  
-- 🧩 Exploring legacy systems & building emulators  
-- ❤️ Currently obsessed with **Rust & Go**
+- 🌐 Full Stack Developer (MERN)
+- 🧠 Building intelligence into applications (AI/ML)
+- 📊 Data-driven mindset (analysis → insights → systems)
+- ⚙️ Backend systems, APIs & scalable architectures
+- 🔍 Curious about how systems work under the hood
+- 🚀 Turning ideas into real-world products
 
 ---
 
 # ⚡ My Setup
 
 ```bash
-OS      : Arch Linux / MacOS
-Editor  : Neovim
-Shell   : Bash / Zsh
-Stack   : Go + Rust + Python
+OS        : Ubuntu Linux / Windows
+Editor    : VS Code / Cursor
+Stack     : MERN + Python (AI/ML)
+Focus     : Full Stack + Data & AI
+Learning  : System Design
