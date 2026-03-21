@@ -74,9 +74,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
 <hr>
 
-# 🧠 About Me
+# 👨‍💻 About Me
 
-🏃 Hustler Life Forever  
+ 🧠Think. ⚙️Build. 💻Optimize.  
 
 - 🌐 Full Stack Developer (MERN)
 - 🧠 Building intelligence into applications (AI/ML)
