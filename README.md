@@ -86,16 +86,6 @@
 - 🚀 Turning ideas into real-world products
 <hr>
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=topperguy7&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topperguy7&layout=donut&theme=radical"/>
-</p>
-
 # ⚡ My Setup
 
 ```bash
