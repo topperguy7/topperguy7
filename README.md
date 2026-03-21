@@ -1,4 +1,4 @@
-<h1 align="center">❄️ Hacker • ✨ YOUR NAME ✨ • Developer ❄️</h1>
+<h1 align="center">❄️ AI & Data Engineer • ✨ Parth ✨ • Full Stack Developer ❄️</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="140"/>
