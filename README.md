@@ -57,6 +57,19 @@
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 
+
+## 🧠 AI & Data Science
+
+### 📊 Data Analysis
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=plotly)
+![Seaborn](https://img.shields.io/badge/Seaborn-000?style=for-the-badge)
+
+### 🤖 Machine Learning / AI
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikit-learn)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
 ---
 
 # 🧠 About Me
