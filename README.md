@@ -1,7 +1,7 @@
 <h1 align="center">❄️ AI & Data Engineer • ✨ Parth ✨ • Full Stack Developer ❄️</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 </p>
 
 <h3 align="center">umm... yeah, I kinda like coding 😎</h3>
