@@ -32,11 +32,14 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
 ### 💻 Systems & Tools
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![Arch](https://img.shields.io/badge/-Arch-000?&logo=arch-linux)
-![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=neovim)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
+<p>
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes"/>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman"/>
+</p>
 
 ### ⚙️ Hardware / Embedded
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
