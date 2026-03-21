@@ -30,6 +30,7 @@
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+<hr>
 
 ### 💻 Systems & Tools
 <p>
@@ -41,6 +42,7 @@
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman"/>
 </p>
+<hr>
 
 ## 🌐 Web Stack
 
@@ -56,7 +58,7 @@
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-
+<hr>
 
 ## 🧠 AI & Data Science
 
