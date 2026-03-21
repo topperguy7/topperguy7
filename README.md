@@ -24,11 +24,12 @@
 # ⚡ Tech Stack
 
 ### 🧠 Languages
-![Go](https://img.shields.io/badge/-Go-000?&logo=go)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
 ### 💻 Systems & Tools
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
