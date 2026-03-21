@@ -33,7 +33,8 @@
 
 ### 💻 Systems & Tools
 <p>
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/>/
+  ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows)
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes"/>
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
