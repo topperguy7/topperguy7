@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
-<h3 align="center">umm... yeah, I kinda like coding 😎</h3>
+<h3 align="center"> yeah, I like coding 😎</h3>
 
 <p align="center">
   <i>"I don't let my schooling interfere with my education."</i>
