@@ -15,7 +15,7 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://topperguy.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/parthhonrao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:parthonrao24@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
   <a href="https://www.chess.com/member/topperguy" target="_blank"><img src="https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com"/></a>
 </p>
